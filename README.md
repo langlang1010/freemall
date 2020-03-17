@@ -1,29 +1,14 @@
-# freemall
+## freemall
+vue3 的学习笔记，一个简单的项目。
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
+### 使用方法
+```bash
+# clone this respository
+git clone https://github.com/langlang1010/freemall.git freemall
+cd freemall
+# install dependencies
+cnpm install 
+# run 
+npm run serve
 ```
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
